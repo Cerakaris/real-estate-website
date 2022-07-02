@@ -1,3 +1,75 @@
-ul{
-    list-style-type: none;
+.navigation{
+    align-items: center;
+    display: block;
+    border-bottom: solid grey;
+    border-width: 1em;
 }
+#title{
+    padding-top: 1.2em;
+    padding-right: 2em;
+    font-weight: bold;
+    font-family: "Oleo Script","Space Grotesk" cursive;
+    font-style: italic;
+    align-items: flex-start;
+    
+}
+ #navigation, ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+/* #navigation, li{
+    float: left;
+    padding: 3em; 
+} */
+#navigation, li, a{
+    display: block;
+    padding: 0.8em;
+    align-items: center;
+} 
+/* #get_started {
+    float: right; 
+    padding: 3em;
+    background-color:#0F298B ;
+    color: white;
+    margin-left: 2em;
+    align-items: flex-end;
+} */
+button{
+    background-color: blue;
+    color: white;
+    border: 0em;
+    font-size: 12px;
+    border-radius: 0.8em;
+
+}
+#introduction1{
+    color: blue;
+}
+#learn_more{
+    background-color: blue;
+    color: white;
+}
+.introduction{
+    float: left;
+    display: block; 
+      
+} 
+#img1{
+    float: right;
+    margin: 0;
+    height: 50%;
+    width: 50%;
+
+}
+#introduction1, #introduction2 {
+    column-count: 2;
+    column-gap: normal;
+    /* column-span: 1; */
+}
+
+
+  
+
+
