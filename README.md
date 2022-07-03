@@ -7,6 +7,8 @@ It is prepared by Jackline W. Kariuki.
 
 Link on github https://github.com/JACKLINEKARIUKI/real-estate-website.git
 
+link on github pages https://jacklinekariuki.github.io/real-estate-website/
+
 Copyright (c) [2022] [Jackline Waithira Kariuki]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
