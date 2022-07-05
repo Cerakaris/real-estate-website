@@ -267,6 +267,9 @@ button{
   text-align: center;
   margin: 0px;
 }
+.featured-detail {
+  margin-bottom: 20px;
+}
 .featured-card-detail {
   display: flex;
   flex-direction: row;
