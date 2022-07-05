@@ -1,13 +1,34 @@
-# real-estate-website
-This is a website for advertising available real estate property.
+# Real Estate Website
 
-It is mainly built with HTML for the content and CSS for styling of the content.
+#### By Jackline W. Kariuki
 
-It is prepared by Jackline W. Kariuki.
 
-Link on github https://github.com/JACKLINEKARIUKI/real-estate-website.git
 
-link on github pages https://jacklinekariuki.github.io/real-estate-website/
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Links](#links)
+* [Technology Used](#technology-used)
+* [Licence](#licence)
+
+# Description
+
+This is a website for advertising available real estate property. Herein one can find the property location, price and availability as per one's preferences.
+
+# Installation
+* Access to a computer, tablet, Ipad or smart phone.
+* Internet
+
+# Links
+Here is the link to the website (https://jacklinekariuki.github.io/real-estate-website/)
+
+# Technology Used
+* HTML -To build the page contents.
+* CSS - To style the page contents.
+
+# Licence
+
+MIT Licence
 
 Copyright (c) [2022] [Jackline Waithira Kariuki]
 
